@@ -6,6 +6,7 @@ This repository contains Python code to experiment with the performance of paral
 <img width="996" height="547" alt="result" src="https://github.com/user-attachments/assets/4bcf75f4-faab-4f98-a167-4b5325167cab" />
 
 # Analysis of Duration Change
+Execution time change becomes less than 1.0% per worker increase around MAX_WORKERS = 35
 |index|MAX\_WORKERS|Duration \(seconds\)|Duration\_Change|Duration\_Change\_Percent|
 |---|---|---|---|---|
 |0|1|37\.52912402153015|NaN|NaN|
